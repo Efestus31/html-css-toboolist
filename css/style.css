@@ -1,0 +1,14 @@
+/* #region header */
+    *{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #logo{
+        font-size: 40px;
+        font-weight: bold;
+        padding-left: 2rem;
+    }
+
+
+/* #endregion header */
+
