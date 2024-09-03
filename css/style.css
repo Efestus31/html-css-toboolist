@@ -1,14 +1,30 @@
 /* #region header */
     *{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin 80%
+    }
+    header span{
+        vertical-align: top;
     }
 
     #logo{
         font-size: 40px;
         font-weight: bold;
         padding-left: 2rem;
+        padding-bottom: 1rem;
     }
 
-
 /* #endregion header */
+
+/* #region main */
+body{
+    background-color: #f6f8f9;
+}
+
+main{
+    padding: 50px 250px;
+}
+
+
+/* #endregion main */
 
