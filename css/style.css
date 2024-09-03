@@ -37,6 +37,7 @@ main{
     color: white;
 }
 #button_2{
+    border: 3px;
     border-radius: 10px;
     border-color: white;
     padding: 5px;
@@ -44,18 +45,27 @@ main{
 }
 
 .check{
-    display: inline-block;
-    height:  10px;
-    width: 10px;
-    line-height: 2;
-
-    -moz-border-radius 30px;
-    border-radius: 30px;
+    border: 2px solid green;
     color: green;
-    text-align: center;
-    font-size: 1.5em;
-
-
+    border-radius: 50%;
+    height: 28px;
+    width: 22px;
+    display: inline-block;
+    padding-left: 5px;
+    font-size: larger;
 }
+
+.cross{
+    border: 2px solid red;
+    color: red;
+    border-radius: 50%;
+    height: 28px;
+    width: 22px;
+    display: inline-block;
+    padding-left: 5px;
+    font-size: larger;
+}
+
+
 /* #endregion main */
 
